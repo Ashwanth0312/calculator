@@ -12,7 +12,7 @@ function calculate(){
        alert("invalid");
     }
 }
-function clear(){
+function reset(){
     outputScreen.value = "";
 }
 function del(){
